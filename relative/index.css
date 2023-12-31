@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+/* 
+ position: absolute; moves element above and other elements moves below it
+   position: relative; is used to limit the child element to according to parent
+    position: relative; is always assign to parent
+*/
+
+#box {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+}
+
+#innerBox {
+  position: absolute;
+  left: 40%;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
