@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  height: 60px;
+  padding: 5px;
+  background-color: black;
+}
+
+.nav a {
+  color: white;
+  margin-right: 200px;
+}
+
+.title {
+  color: greenyellow;
+  font-size: 25px;
+}
+
+.btn {
+  background-color: yellow;
+}
