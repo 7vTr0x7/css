@@ -1,0 +1,16 @@
+
+
+  # display property
+    
+     - display: inline / block / inline-block / none
+
+    inline -  takes only the space required by the element. (no margin/padding/height/width)
+      -> span, button, input, a
+
+    block - takes full space available in width
+      -> div,h1
+
+    inline-block - similar to inline but we can set margin & padding
+    
+
+    none - to remove elements from the document flow
