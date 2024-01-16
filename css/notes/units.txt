@@ -8,3 +8,5 @@
     -> can be used in width also
        - width : 4em = elements font size  * 4  
 
+  # rem (Root em)
+    -> unit rem is relative to font size of the root element      
