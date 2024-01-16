@@ -11,7 +11,7 @@
      # absolute: positioned relative to its closest positioned/non-static ancestor/parent/parent of the parent. (removed from the flow ) 
 
        - /* 
-        position: absolute; moves element above and other elements moves below it
-        position: relative; is used to limit the child element to according to parent
-        position: relative; is always assign to parent
+        position: absolute; moves element above and other elements move below it
+        position: relative; is used to limit the child element according to the parent
+        position: relative; is always assigned to parent
         */
