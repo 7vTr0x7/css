@@ -13,5 +13,5 @@
        - /* 
         position: absolute; moves element above and other elements move below it
         position: relative; is used to limit the child element according to the parent
-        position: relative; is always assigned to parent
+        position: relative; is always assigned to the parent
         */
