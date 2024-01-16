@@ -15,3 +15,6 @@
         position: relative; is used to limit the child element according to the parent
         position: relative; is always assigned to the parent
         */
+
+     # fixed
+        -> positioned relative to the browser.(removed from the flow)   

@@ -1,0 +1,40 @@
+#main {
+  position: relative;
+  border: 1px solid blue;
+  height: 400px;
+  width: 50%;
+}
+#box1 {
+  position: absolute;
+  top: 50%;
+
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+
+  display: inline-block;
+}
+#box2 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+
+  display: inline-block;
+}
+#box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+
+  display: inline-block;
+}
+#box4 {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+
+  display: inline-block;
+}
