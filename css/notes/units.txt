@@ -1,0 +1,10 @@
+
+
+
+  # em 
+    -> unit em is relative to font size of parent
+      - 1em = parents font size
+      - 2em = parents font size * 2
+    -> can be used in width also
+       - width : 4em = elements font size  * 4  
+

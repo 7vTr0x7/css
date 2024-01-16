@@ -1,0 +1,13 @@
+.main {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  padding: 20px;
+  font-size: 30px;
+}
+.box {
+  height: 100px;
+  width: 50%;
+  font-size: 2em;
+  background-color: blueviolet;
+}
