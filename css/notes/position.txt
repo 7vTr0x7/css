@@ -17,4 +17,7 @@
         */
 
      # fixed
-        -> positioned relative to the browser.(removed from the flow)   
+        -> positioned relative to the browser.(removed from the flow)  
+
+     # sticky 
+        -> position based on user's scroll position    
