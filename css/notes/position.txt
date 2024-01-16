@@ -21,3 +21,8 @@
 
      # sticky 
         -> position based on user's scroll position    
+
+       
+     # z-index 
+        ->  It decides the stake level of elements
+           Overlapping elements with a larger z-index cover those with a smaller one
