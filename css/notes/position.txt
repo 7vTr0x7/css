@@ -7,3 +7,11 @@
      # static: default (The top, right, bottom, left, and z-index properties have no effect)
 
      # relative: element is relative to itself (The top, right, bottom, left, and z-index properties will work )
+
+     # absolute: positioned relative to its closest positioned/non-static ancestor/parent/parent of the parent. (removed from the flow ) 
+
+       - /* 
+        position: absolute; moves element above and other elements moves below it
+        position: relative; is used to limit the child element to according to parent
+        position: relative; is always assign to parent
+        */
