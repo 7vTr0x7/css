@@ -20,7 +20,7 @@
        - flex-direction: column-reverse
           - main axis: bottom to top and cross-axis: left to right
 
-         
+          
 
       # flex container  
 
@@ -42,3 +42,10 @@
                   
 
            - align-content: alignment of space between & around the content along the cross-axis
+
+
+
+      # flex item
+
+         -> align-self: alignment of individual items along the cross-axis
+        

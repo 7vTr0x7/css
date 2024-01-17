@@ -3,18 +3,21 @@ body {
 }
 
 div {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 150px;
   display: inline-block;
   border: 2px solid black;
 }
 
 .container {
-  width: 800px;
-  height: 200px;
+  width: 600px;
+  height: 600px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
   flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
 }
 
 #box1 {
@@ -22,9 +25,11 @@ div {
 }
 #box2 {
   background-color: aqua;
+  height: 200px;
 }
 #box3 {
   background-color: aquamarine;
+  height: 75px;
 }
 #box4 {
   background-color: azure;
