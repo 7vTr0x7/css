@@ -24,5 +24,16 @@
 
       # flex container  
 
-        - justify-content: alignment along the main axis
-           - flex-start/flex-end/center/space-between/space-around/space-evenly        
+        -> justify-content: alignment along the main axis
+           - flex-start/flex-end/center/space-between/space-around/space-evenly    
+
+        -> flex-wrap: 
+           - flex-wrap: no wrap (default) 
+              - all flex-items will be in one line
+
+           - flex-wrap: wrap
+              - flex items will wrap onto multiple lines from top to bottom   
+
+           - flex-wrap: wrap-reverse
+              - flex items will wrap onto multiple lines from bottom to top
+                  
