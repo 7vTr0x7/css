@@ -1,0 +1,10 @@
+div {
+  color: white;
+  height: 100px;
+  width: 100px;
+  background-image: url("https://w0.peakpx.com/wallpaper/347/318/HD-wallpaper-black-waves-black.jpg");
+  background-size: cover;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
