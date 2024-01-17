@@ -2,3 +2,20 @@
    
    # flexBox - flexible Box layout
      ->  It is a one-dimensional layout method for arranging  items in rows or columns
+    
+
+   # properties - 
+
+     # flex direction 
+       -> It sets how flex items are placed in the flex container, along which axis and direction
+
+       - flex-direction: row (default) 
+          - main-axis: left to right and cross-axis: top to bottom
+
+       - flex-direction: row-reverse
+          - main axis: right to left and cross-axis: top to bottom
+
+       - flex-direction: column
+          - main axis: top to bottom and cross-axis: left to right
+       - flex-direction: column-reverse
+          - main axis: bottom to top and cross-axis: left to right
