@@ -25,7 +25,10 @@
       # flex container  
 
         -> justify-content: alignment along the main axis
-           - flex-start/flex-end/center/space-between/space-around/space-evenly    
+           - flex-start/flex-end/center/space-between/space-around/space-evenly   
+
+        -> align-items:  alignment along the cross-axis
+           - center/flex-start-flex-end
 
         -> flex-wrap: 
            - flex-wrap: no wrap (default) 
