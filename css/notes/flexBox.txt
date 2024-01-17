@@ -19,3 +19,10 @@
           - main axis: top to bottom and cross-axis: left to right
        - flex-direction: column-reverse
           - main axis: bottom to top and cross-axis: left to right
+
+         
+
+      # flex container  
+
+        - justify-content: alignment along the main axis
+           - flex-start/flex-end/center/space-between/space-around/space-evenly        
