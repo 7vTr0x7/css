@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+}
+
+div {
+  height: 100px;
+  width: 150px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+.container {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+#box1 {
+  background-color: aliceblue;
+}
+#box2 {
+  background-color: aqua;
+  height: 200px;
+}
+#box3 {
+  background-color: aquamarine;
+  height: 75px;
+}
+#box4 {
+  background-color: azure;
+}
+#box5 {
+  background-color: antiquewhite;
+  align-self: flex-end;
+}
