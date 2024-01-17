@@ -48,4 +48,5 @@
       # flex item
 
          -> align-self: alignment of individual items along the cross-axis
-        
+         
+         ->flex-shrink: how much a flex item will shrink relative to the rest of the flex items if space is available
