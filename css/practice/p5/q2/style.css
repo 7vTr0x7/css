@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outer-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
+
+.inner-box {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
