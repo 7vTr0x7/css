@@ -1,0 +1,23 @@
+ 
+   
+
+   # animation 
+      
+      # transition : transition enables you to define the transition  between two states of an element
+
+        -> transition-property : property you want to transition (font,width etc.)
+
+        -> transition-duration : 2s/4ms ..
+
+        -> transition-timing-function : ease-in / ease-out / linear / steps ..
+
+        -> transition-delay: 2s
+   
+    
+   
+   # transition short hand
+                  
+                property name|duration|timing-function|delay
+
+    transition :  font-size     2s       ease-in-out     2s
+ 
