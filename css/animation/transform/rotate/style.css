@@ -1,0 +1,15 @@
+.main {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
+
+.main:hover {
+  background-color: blue;
+  font-size: 30px;
+  rotate: 45deg;
+}
+
+.main:active {
+  background-color: aliceblue;
+}

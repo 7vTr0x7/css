@@ -21,3 +21,16 @@
 
     transition :  font-size     2s       ease-in-out     2s
  
+   
+       
+       # css transform : used to apply 2d & 3d transformations to an element
+         
+
+          -> rotate 
+             
+                transform : rotate(45deg);
+                 
+                 rotate: 45deg
+                 rotateX:45deg
+                 rotateZ:45deg
+                 rotateY:45deg
