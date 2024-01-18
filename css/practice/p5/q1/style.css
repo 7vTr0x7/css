@@ -1,0 +1,14 @@
+.nav {
+  background-color: aqua;
+  height: 50px;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
