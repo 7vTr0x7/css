@@ -1,0 +1,19 @@
+.main {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  transition: all 2s ease-in;
+}
+
+.main:hover {
+  background-color: blue;
+  font-size: 30px;
+  transform: translateY(-50px);
+}
+
+.main:active {
+  background-color: aliceblue;
+}
