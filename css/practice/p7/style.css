@@ -1,0 +1,22 @@
+.loader {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 200px;
+  left: 600px;
+  border-radius: 50%;
+  border-top: 4px solid blueviolet;
+  color: aqua;
+  transition: all 4s ease-in;
+
+  animation: loader 3s ease-in 0s infinite normal;
+}
+
+@keyframes loader {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: 360deg;
+  }
+}
